@@ -1,6 +1,6 @@
 # BrandFeelingRedundancy
 
-Representation of the redundancy system on Brand Feeling old version, this part of the system controls 3 separted servers, via RMI, testing for failures on the process to make sure the process is done correctly.
+Representation of the redundancy system on Brand Feeling's old version, this part of the system controls 3 separted servers, via RMI, testing for failures on the process to make sure the process is done correctly.
 
 The system used to recieve the call to start the process from a SOAP application.
 
