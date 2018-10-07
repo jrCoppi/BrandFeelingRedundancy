@@ -4,7 +4,7 @@ Representation of the redundancy system on Brand Feeling's old version, this par
 
 The system used to recieve the call to start the process from a SOAP application.
 
-Some parts were changed to maintain the system's privacy.
+Some parts were changed to maintain the system's privacy, because of that this aplication doest NOT run.
 
 Main parts:
 
