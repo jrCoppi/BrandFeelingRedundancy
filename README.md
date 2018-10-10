@@ -11,3 +11,5 @@ Main parts:
  - Webservice/SOAP : webservice Package or WSProcessaInterface.java
  - Redundancy System/RMI : Under thr RMI package, method "leitura" and "efetuaLeitura" from "RMIProcessa" creates each of the rmi servers
  - Database : The package Banco was omitted because of privacy
+
+This part of the system recieves the call from the user input on the front end (https://github.com/jrCoppi/BrandFeelingFrontEnd) and then prepares and execute the system's analysys on each of the backend servers (https://github.com/jrCoppi/BrandFeelingBackEnd)
